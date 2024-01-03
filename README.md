@@ -1,2 +1,1 @@
-# Hotel-Hub
-A hotel reservation static website.
+# RPH Final Web Design
